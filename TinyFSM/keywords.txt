@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For StateMachine
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TinyFSM    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# StateMachine
+setState        KEYWORD2
+setInitial      KEYWORD2
+addTransition   KEYWORD2
+setOnEntry      KEYWORD2
+setOnExit       KEYWORD2
+addEvent        KEYWORD2
+readQueue       KEYWORD2
+start           KEYWORD2
+getCurrentState KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
